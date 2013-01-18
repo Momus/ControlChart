@@ -94,7 +94,7 @@ must go.
 # data points come at fixed intervals, so this variable acts as a sort of
 # auto-indexer for a data stream.
  
-      DATA_INTERVAL = 1
+      DATA_INTERVAL = data_interval
 
 # The data array should also be created.  It will have the following
 # structure.
